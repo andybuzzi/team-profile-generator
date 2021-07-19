@@ -29,6 +29,8 @@ What would you like to do?
   - Please enter the intern's email;
   - Please enter intern's school.
 
+Walkthrough video of the readMe Generator
+
 ## Table of Contents
 
 - [Installation](#installation)
@@ -54,11 +56,11 @@ Below screenshots of some of the features for reference.
 
 - Questions will be displayed in the terminal;
 
-  ![Team Profile Questions](dist\screenshots\questions.png)
+  ![Team Profile Questions](dist\screenshots\questions.jpg)
 
 - After answering all the questions a team profile file will be generated containing your team information.
 
-  ![Team Profile Preview](dist\screenshots\team-preview.png)
+  ![Team Profile Preview](dist\screenshots\team-preview.jpg)
 
 ## License
 
