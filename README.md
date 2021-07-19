@@ -29,7 +29,7 @@ What would you like to do?
   - Please enter the intern's email;
   - Please enter intern's school.
 
-  [Walkthrough video of the readMe Generator](https://youtu.be/Cl_Aa4kV1gU)
+  [Walkthrough video of the Team Profile Generator](https://youtu.be/Cl_Aa4kV1gU)
 
 ## Table of Contents
 
