@@ -1,0 +1,25 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+
+.head {
+  font-size: 26px;
+  text-align: center;
+  background-color: #e84756;
+  padding: 20px;
+  color: white;
+}
+
+.row {
+  margin: 5px 80px;
+}
+
+.card-body {
+  background: #0077f7;
+  color: white;
+}
+
+.card {
+  box-shadow: 3px 3px 12px black;
+}
